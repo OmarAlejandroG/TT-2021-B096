@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TT</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="enlazar_dispositivo">Enlazar Dispositivo</string>
+    <string name="sistema_prototipo_de_control_parental_para_veh_culos_montables_infantiles">Sistema prototipo de control parental para vehículos montables infantiles.</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="enlace_con_dispositivo">Enlace con dispositivo</string>
+    <string name="seleccione_un_dispositivo_bluetooth_para_conectarse">Seleccione un dispositivo Bluetooth para conectarse.</string>
+    <string name="todo">TODO</string>
+    <string name="regresar">Regresar</string>
+    <string name="veloc_metro_0km_h">Velocímetro: 0Km/h</string>
+    <string name="bater_a_restante_100">Batería restante: 100%</string>
+    <string name="control_manual">Control manual</string>
+    <string name="opciones">Opciones</string>
+</resources>
