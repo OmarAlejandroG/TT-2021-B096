@@ -28,7 +28,7 @@
         android:layout_height="48dp"
         android:layout_marginTop="310dp"
         android:layout_marginBottom="373dp"
-        android:max="4"
+        android:max="5"
         android:progress="2"
         android:progressTint="#2196F3"
         app:layout_constraintBottom_toBottomOf="parent"
