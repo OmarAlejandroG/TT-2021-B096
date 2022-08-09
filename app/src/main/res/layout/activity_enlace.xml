@@ -53,4 +53,13 @@
         app:srcCompat="@android:drawable/ic_popup_sync"
         tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck" />
 
+    <ListView
+        android:id="@+id/bt_list"
+        android:layout_width="0dp"
+        android:layout_height="460dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ref" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
